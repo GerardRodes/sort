@@ -1,0 +1,10 @@
+td {width: 5px; height: 5px;}
+table {border: 1px solid black; margin: 1em; transform: rotate(-90deg);}
+.true {background-color: black;}
+
+ul {margin: 1em;}
+li {cursor: pointer; display: inline;}
+p {margin: 1em; cursor: pointer;}
+#metodo{margin: 1em;}
+
+.highligth {background-color: red;}
